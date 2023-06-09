@@ -1,0 +1,66 @@
+[
+  {
+    "id": "1",
+    "leader": "Emmanuel Macron",
+    "position": "President of France",
+    "photo": "./Assets/Emmanuel Macron/7.jpg",
+    "photo2": "./Assets/Emmanuel Macron/6.jpg",
+    "country_flag": "./Assets/flags/France.png"
+  },
+  {
+    "id": "2",
+    "leader": "Frank-Walter Steinmeier",
+    "position": "President of Germany",
+    "photo": "./Assets/Frank-Walter Steinmeier/6.jpeg",
+    "photo2": "./Assets/Frank-Walter Steinmeier/1.jpg",
+    "country_flag": "./Assets/flags/Germany.png"
+  },
+  {
+    "id": "3",
+    "leader": "Joe Biden",
+    "position": "President of United States of America",
+    "photo": "./Assets/Joe Biden/1.jpg",
+    "photo2": "./Assets/Joe Biden/5.jpg",
+    "country_flag": "./Assets/flags/USA.png"
+  },
+  {
+    "id": "4",
+    "leader": "Joko Widodo",
+    "position": "President of Indonesia",
+    "photo": "./Assets/Joko Widodo/2.jpeg",
+    "photo2": "./Assets/Joko Widodo/12.jpeg",
+    "country_flag": "./Assets/flags/Indonesia.png"
+  },
+  {
+    "id": "5",
+    "leader": "Mohamed bin Zayed Al Nahyan",
+    "position": "President of United Arab Emirates",
+    "photo": "./Assets/Mohamed bin Zayed Al Nahyan/8.jpeg",
+    "photo2": "./Assets/Mohamed bin Zayed Al Nahyan/9.png",
+    "country_flag": "./Assets/flags/UAE.png"
+  },
+  {
+    "id": "6",
+    "leader": "Rishi Sunak",
+    "position": "Prime Minister of United Kingdom",
+    "photo": "./Assets/Rishi Sunak/11.jpg",
+    "photo2": "./Assets/Rishi Sunak/9.jpg",
+    "country_flag": "./Assets/flags/UK.png"
+  },
+  {
+    "id": "7",
+    "leader": "Vladimir Putin",
+    "position": "President of Russia",
+    "photo": "./Assets/Vladimir Putin/3.jpg",
+    "photo2": "./Assets/Vladimir Putin/6.jpeg",
+    "country_flag": "./Assets/flags/Russia.png"
+  },
+  {
+    "id": "8",
+    "leader": "Xi Jinping",
+    "position": "President of China",
+    "photo": "./Assets/Xi Jinping/1.jpg",
+    "photo2": "./Assets/Xi Jinping/19.jpeg",
+    "country_flag": "./Assets/flags/China.png"
+  }
+]

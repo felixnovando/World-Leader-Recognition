@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.img {
+    width: 250px;
+    height: 250px;
+    margin: 10px;
+}
+
+form{
+    width: 80%;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    display: flex;
+    align-items: center;
+}
+
+form > #id{
+    font-size: 20px;
+    height: 28px;
+    flex-grow: 1;
+    padding: 5px 0 5px 5px;
+    border-radius: 5px;
+}
+
+.search-icon{
+    width: 50px;
+    margin-left: 15px;
+    color: darkblue;
+}
+
+#container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}

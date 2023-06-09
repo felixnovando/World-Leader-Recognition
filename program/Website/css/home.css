@@ -1,0 +1,83 @@
+#container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.card {
+    width: 60%;
+    min-height: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 20px;
+    padding: 10px 30px 10px 30px;
+    border-radius: 15px;
+    background-color: darkcyan;
+}
+
+.card>.flag>img {
+    width: 400px;
+    height: 200px;
+    object-fit: fill;
+}
+
+.leader>.photo {
+    width: 150px;
+    height: 150px;
+    position: relative;
+}
+
+.leader>.photo>img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 150px;
+}
+
+.default {
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+.default:hover {
+    opacity: 0;
+    transition: all 1.5s ease-in-out;
+}
+
+.info {
+    padding: 10px 0 10px 0px;
+}
+
+.info>.name {
+    font-size: 28px;
+    color: gold;
+}
+
+.info>.position {
+    font-size: 20px;
+    color: whitesmoke;
+}
+
+@media screen and (max-width: 1200px) {
+    .card {
+        flex-direction: column;
+    }
+    .leader {
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: flex-start;
+    }
+    .leader > .photo {
+        margin-right: 20px;
+        margin-bottom: 10px;
+    }
+    .card > .flag{
+        width: 100%;
+    }
+    .card>.flag>img {
+        width: 100%;
+    }
+}
