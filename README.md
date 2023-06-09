@@ -6,15 +6,15 @@
 <div>
     <h2>Step to run app</h2>
 
-    <p>1. Run php website using server or local developement server (no database required)</p>
+    1. Run php website using server or local developement server (no database required)
 
-    <p>2. Download python 3.7.6 and install libraries from requirements.txt</p>
+    2. Download python 3.7.6 and install libraries from requirements.txt
 
-    <p>3. Open File Recognition folder and set env variables</p>
+    3. Open File Recognition folder and set env variables
 
-    <p>4. Run file Train.py</p>
+    4. Run file Train.py
 
-    <p>5. Run file Test.py</p>
+    5. Run file Test.py
 
-    <p>6. Run file Test2.py</p>
+    6. Run file Test2.py
 </div>
